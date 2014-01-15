@@ -1,0 +1,97 @@
+-
++<?xml version="1.0" encoding="utf-8"?>
+<World>
+  <Item>
+    <name>silver key</name>
+    <symbol>)</symbol>
+    <weight>1</weight>
+    <value>10</value>
+  </Item>
+
+  <Creature>
+    <name>orc</name>
+    <symbol>o</symbol>
+    <health>15</health>
+    <hostile>true</hostile>
+  </Creature>
+
+  <Creature>
+    <name>kobold</name>
+    <symbol>k</symbol>
+    <health>6</health>
+    <hostile>true</hostile>
+  </Creature>
+
+  <Creature>
+    <name>orc warrior</name>
+    <symbol>o</symbol>
+    <health>25</health>
+    <hostile>true</hostile>
+  </Creature>
+
+  <Creature>
+    <name>goblin</name>
+    <symbol>g</symbol>
+    <health>4</health>
+    <hostile>true</hostile>
+  </Creature>
+
+  <Creature>
+    <name>gnome</name>
+    <symbol>G</symbol>
+    <health>15</health>
+    <hostile>false</hostile>
+  </Creature>
+
+  <Weapon>
+    <name>greatsword</name>
+    <symbol>(</symbol>
+    <weight>20</weight>
+    <value>100</value>
+    <weaponType>1</weaponType>
+    <attackBonus>10</attackBonus>
+  </Weapon>
+
+  <Weapon>
+    <name>warhammer</name>
+    <symbol>(</symbol>
+    <weight>10</weight>
+    <value>50</value>
+    <weaponType>2</weaponType>
+    <attackBonus>5</attackBonus>
+  </Weapon>
+
+  <Weapon>
+    <name>dagger</name>
+    <symbol>(</symbol>
+    <weight>5</weight>
+    <value>10</value>
+    <weaponType>3</weaponType>
+    <attackBonus>3</attackBonus>
+  </Weapon>
+
+  <Armor>
+    <name>chainmail</name>
+    <symbol>[</symbol>
+    <weight>30</weight>
+    <value>80</value>
+    <defenseBonus>5</defenseBonus>
+  </Armor>
+
+  <Armor>
+    <name>leather</name>
+    <symbol>[</symbol>
+    <weight>10</weight>
+    <value>20</value>
+    <defenseBonus>2</defenseBonus>
+  </Armor>
+
+  <Armor>
+    <name>platemail</name>
+    <symbol>[</symbol>
+    <weight>50</weight>
+    <value>200</value>
+    <defenseBonus>12</defenseBonus>
+  </Armor>
+
+</World>

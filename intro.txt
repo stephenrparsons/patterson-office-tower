@@ -1,0 +1,57 @@
+Welcome to Patterson Office Tower, a game by Stephen Parsons.                                                                                  
+                                                                                  
+You are a student at the University of Kentucky trying to survive in a                                                                                  
+competitive academic environment.                                                                                  
+                                                                                  
+You start on the first floor and your goal is to make it as far up as you can.                                                                                  
+Don't forget that there is an intermezzo floor, so the 18th floor is                                                                                  
+deceptively actually the 19th!                                                                                  
+                                                                                  
+Along the way you will encounter professors and TAs who wish to fail you.                                                                                  
+Defeat them by turning in great assignments! If your smarts (experience)                                                                                  
+aren't good enough, you will have a hard time. Start with some easy adversaries                                                                                  
+in order to gain smarts and increase your status.                                                                                 
+                                                                                  
+Your GPA (health) starts at 4.0. Luckily for you, the university allows you to                                                                                  
+be a student as long as you keep your GPA above 0.0. If you go below this, you                                                                                  
+will fail. Keep it high by defeating professors and TAs, but be careful that                                                                                  
+they don't keep failing you or you will lose the game. You're generally a good                                                                                  
+student, so your GPA will increase slowly as long as you are not challenging                                                                                  
+professors constantly.                                                                                  
+                                                                                  
+The next screen is the help screen and you can get to it during the game by                                                                                  
+pressing 'h' at any time. It explains controls and what you might encounter!                                                                                  
+                                                                                  
+Good luck!                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  

@@ -1,0 +1,25 @@
+#include <vector>
+#include <string>
+#include <iostream>
+#include <fstream>
+#include <ncurses.h>
+
+using namespace std;
+
+int main()
+{
+  // Introduce splash screen first
+  ifstream splash;
+  splash.open("splash.txt");
+  vector<string> v_splash;
+  for(int i = 0; i < 30; i++)
+    {
+      string temp;
+      getline(splash, temp);
+      v_splash.push_back(temp);
+    }
+  splash.close();
+  cout << v_splash[0];
+
+  return 0;
+}

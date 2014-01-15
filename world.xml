@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<World>
+  <Item>
+    <name>silver key</name>
+    <weight>1</weight>
+    <symbol>)</symbol>
+    <value>10</value>
+  </Item>
+
+  <Creature>
+    <name>Teaching Assistant</name>
+    <health>3</health>
+    <symbol>t</symbol>
+    <hostile>true</hostile>
+  </Creature>
+
+  <Creature>
+    <name>Student</name>
+    <health>1</health>
+    <symbol>s</symbol>
+    <hostile>true</hostile>
+  </Creature>
+
+  <Creature>
+    <name>Lecturer</name>
+    <health>7</health>
+    <symbol>l</symbol>
+    <hostile>true</hostile>
+  </Creature>
+
+  <Creature>
+    <name>Professor</name>
+    <health>11</health>
+    <symbol>p</symbol>
+    <hostile>true</hostile>
+  </Creature>
+
+  <Creature>
+    <name>Department Chair</name>
+    <health>17</health>
+    <symbol>C</symbol>
+    <hostile>true</hostile>
+  </Creature>
+
+  <Creature>
+    <name>President</name>
+    <health>30</health>
+    <symbol>P</symbol>
+    <hostile>true</hostile>
+  </Creature>
+
+  <Creature>
+    <name>Researcher</name>
+    <health>5</health>
+    <symbol>r</symbol>
+    <hostile>true</hostile>
+  </Creature>
+
+</World>
+
+
+

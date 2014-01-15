@@ -1,0 +1,55 @@
+Command            | Function             Item       (symbol) | Use                                                     
+---------------------------------------   ------------------------------------                                                                               
+wasd/arrow keys    | move                 Calculator      (c) | Prowess +1                                                      
+h                  | help                 Helpful Friend  (f) | Reasoning +1                                           
+q                  | quit                 Meet w/ Jennifer(j) | Restore GPA                                                                
+j                  | meet with Jennifer                                                  
+move to creature   | attack                                                                                 
+move to item       | pick up                                                                             
+                                                                                  
+                                                                                  
+Adversary          | Symbol | Level       Stat      | Description                                                              
+---------------------------------------   ------------------------------------                                                                               
+Student            | s      | 1           Floor     | Current floor of POT                                                 
+Teaching Assistant | t      | 3           GPA       | "health"                                                     
+Researcher         | r      | 5           Smarts    | "experience"                                                
+Lecturer           | l      | 7           Status    | "level"                                              
+Professor          | p      | 11          Prowess   | "attack"                                                 
+Department Chair   | C      | 17          Reasoning | "defense"                                                          
+President          | P      | 30                                                               
+                                                                                  
+You are marked with '@'. Press any key to return to game.                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
